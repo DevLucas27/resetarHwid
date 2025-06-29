@@ -1,0 +1,10 @@
+{
+  "usuarios": [
+    {
+      "key": "abc123",
+      "senha": "minhaSenha123",
+      "hwid": "S-1-5-21-..."
+    }
+    
+  ]
+}
