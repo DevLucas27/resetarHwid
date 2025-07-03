@@ -2,11 +2,19 @@
   "usuarios": [
     {
       "key": "owadjkgnsgk",
+      "usuario": null,
       "senha": "gsegtyhya",
       "hwid": "S-1-5-21-..."
     },
     {
       "key": "white-xit827yu",
+      "usuario": null,
+      "senha": "123",
+      "hwid": "S-1-5-21-1203300297-1481680844-1951081517-1002"
+    },
+    {
+      "key": "White-mensal7896",
+      "usuario": "lucasWhiteCom@",
       "senha": "123",
       "hwid": "S-1-5-21-1203300297-1481680844-1951081517-1002"
     }
