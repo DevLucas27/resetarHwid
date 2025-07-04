@@ -5,7 +5,12 @@
       "usuario": null,
       "senha": "gsegtyhya",
       "hwid": "S-1-5-21-..."
+    },
+    {
+      "key": "white-login",
+      "usuario": "Lucas",
+      "senha": "123",
+      "hwid": "S-1-5-21-1203300297-1481680844-1951081517-1002"
     }
-   
   ]
 }
