@@ -5,30 +5,6 @@
       "usuario": null,
       "senha": "gsegtyhya",
       "hwid": "S-1-5-21-..."
-    },
-    {
-      "key": "wh_lucas-8njuy",
-      "usuario": "lucas",
-      "senha": "123",
-      "hwid": "S-1-5-21-1203300297-1481680844-1951081517-1002"
-    },
-    {
-      "key": "wh_guizinf77",
-      "usuario": "guizinxit",
-      "senha": "5730",
-      "hwid": "S-1-5-21-3787961994-3175908408-906959194-1001"
-    },
-    {
-      "key": "wh_otaviocvrl56yu",
-      "usuario": "otaviocvrl",
-      "senha": "123",
-      "hwid": "S-1-5-21-2321139469-4184496574-3549845334-1001"
-    },
-    {
-      "key": "wh_liza87yhjki",
-      "usuario": "kadu",
-      "senha": "kadu77",
-      "hwid": "S-1-5-21-1270898999-117166038-2402864036-1001"
     }
   ]
 }
